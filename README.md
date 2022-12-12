@@ -1,2 +1,3 @@
 # nodeexpress
-NodeJS + Express
+
+Projeto estudo NodeJS + Express
